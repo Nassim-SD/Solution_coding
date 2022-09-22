@@ -1,1 +1,1 @@
-# cod
+# Solution coding game
